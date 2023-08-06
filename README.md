@@ -1,1 +1,3 @@
-# minecraft
+# Minecraft
+
+All things Minecraft
